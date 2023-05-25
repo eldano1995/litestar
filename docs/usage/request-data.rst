@@ -11,7 +11,7 @@ The body of HTTP requests can be accessed using the special ``data`` parameter i
 
 
 
-The type of ``data`` an be any supported type, including
+The type of ``data`` can be any supported type, including
 
 
 * :func:`dataclasses <dataclasses.dataclass>`
